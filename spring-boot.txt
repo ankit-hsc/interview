@@ -1,2 +1,29 @@
- 1.Disadvantages of spring-boot framework
+1.Advantages of spring boot and how it works internally ? Disadvantages of spring-boot framework? 
+2. Dependency injection and its types , Field Injection and Constructor injection in detail with testing
+3.Spring vs Spring Boot difference
+4.what happens in autoconfiguration in spring boot(from spring factory file to AutoConfig classes and starter pom
+working)?
+5. spring boot application what happens when it is running and what is the server and web traffic.
+6. spring boot if it has two main classes what happen is it running?
+7. multiple environments if you in spring boot how do you handle?
+8. what is the approach if you have different environment to work with and need to take common
+approach?
+9. what is a bean , bean scope 
+10. @qualifire vs @autowire
+11. Explain IOC container. 
+12.When we choose Spring over Spring Boot
+13.Do you know some Microservice Design patterns.
+14.authentication vs authorization
+15.Explain Spring Security
+16.What is oauth2 and where have you implemented it ?
+17.Spring filter , http interceptor?
+18.How APIs are directed towards the controller.  write a pseudo code for end-to-end flow of a GET API call.
+19. @Controller & @RestController
+20.What Happens If You Use @Controller on a Service Layer Class?
+21.why use ResponseEntity, controllerAdice ?
+22.Resttemplate , webClient, How to use interceptors with RestTemplate?
+23.spring validation
+24.How Would you make a REST API in spring boot to return text/XML instead of JSON.
+
+
 
