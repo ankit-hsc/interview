@@ -14,7 +14,7 @@ approach?
 12.When we choose Spring over Spring Boot
 13.Do you know some Microservice Design patterns.
 14.authentication vs authorization
-15.Explain Spring Security
+15.Explain Spring Security, @EnableWebSecurity
 16.What is oauth2 and where have you implemented it ?
 17.Spring filter , http interceptor?
 18.How APIs are directed towards the controller.  write a pseudo code for end-to-end flow of a GET API call.
