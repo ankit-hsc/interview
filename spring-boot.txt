@@ -5,7 +5,7 @@
 working)?
 5. spring boot application what happens when it is running and what is the server and web traffic.
 6. spring boot if it has two main classes what happen is it running?
-7. multiple environments if you in spring boot how do you handle?
+7. multiple environments if you in spring boot how do you handle?, @profile ?
 8. what is the approach if you have different environment to work with and need to take common
 approach?
 9. what is a bean , bean scope 
@@ -20,10 +20,11 @@ approach?
 18.How APIs are directed towards the controller.  write a pseudo code for end-to-end flow of a GET API call.
 19. @Controller & @RestController
 20.What Happens If You Use @Controller on a Service Layer Class?
-21.why use ResponseEntity, controllerAdice ?
+21.why use ResponseEntity, controllerAdvice ?
 22.Resttemplate , webClient, How to use interceptors with RestTemplate?
 23.spring validation
 24.How Would you make a REST API in spring boot to return text/XML instead of JSON.
+25. Spring AOP
 
 
 
