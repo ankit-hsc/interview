@@ -2,9 +2,9 @@
 2. Deadlock, Livelock, Starvation
 3. daemon thread
 4. oblect/class synchronisation
-5. inter thread communication- wait , notify ,notifyall
+5. inter thread communication- wait , notify ,notifyall, spurious wakeups
 6. executor, executor service , execute/submit , threadpool, @async 
-7. Thread-Safe Collections- ConcurrentHashMap, CopyOnWriteArrayList, BlockingQueue
+7. Thread-Safe Collections- ConcurrentHashMap,synchronizedMap, CopyOnWriteArrayList, BlockingQueue
 8. Locks and Synchronizers- Lock , ReentrantLock, ReadWriteLock, StampedLock, ReentrantReadWriteLock
 9. virtual thread
 10. Concurrency Utilities( semaphore , countdownlatch , cyclic barier , Exchanger , phaser )
