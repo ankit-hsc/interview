@@ -17,135 +17,88 @@ Java 9 (September 2017)
   Improved Javadoc with search
 
 Java 10 (March 2018)
-Local-Variable Type Inference (var)
-
-Application Class-Data Sharing
-
-G1 Garbage Collector Enhancements
-
-Root Certificates
-
-Java 11 (September 2018)
-var in Lambda Parameters
-
-Standardized HTTP Client API
-
-Flight Recorder
-
-Epsilon Garbage Collector (experimental)
-
-Removed Java EE and CORBA modules
+  Local-Variable Type Inference (var)
+  Application Class-Data Sharing
+  G1 Garbage Collector Enhancements
+  Root Certificates
+  Java 11 (September 2018)
+  var in Lambda Parameters
+  Standardized HTTP Client API
+  Flight Recorder
+  Epsilon Garbage Collector (experimental)
+  Removed Java EE and CORBA modules
 
 Java 12 (March 2019)
-Switch Expressions (preview)
-
-Shenandoah Garbage Collector (experimental)
-
-JVM Constants API
-
-Default CDS Archives
+  Switch Expressions (preview)
+  Shenandoah Garbage Collector (experimental)
+  JVM Constants API
+  Default CDS Archives
 
 Java 13 (September 2019)
-Text Blocks (preview)
-
-Dynamic CDS Archives
-
-Reimplemented Legacy Socket API
+  Text Blocks (preview)
+  Dynamic CDS Archives
+  Reimplemented Legacy Socket API
 
 Java 14 (March 2020)
-Switch Expressions (standard)
-
-Records (preview)
-
-Pattern Matching for instanceof (preview)
-
-Helpful NullPointerExceptions
-
-Foreign-Memory Access API (incubator)
+  Switch Expressions (standard)
+  Records (preview)
+  Pattern Matching for instanceof (preview)
+  Helpful NullPointerExceptions
+  Foreign-Memory Access API (incubator)
 
 Java 15 (September 2020)
-Text Blocks (standard)
-
-Sealed Classes (preview)
-
-Hidden Classes
-
-ZGC and Shenandoah Improvements
+  Text Blocks (standard)
+  Sealed Classes (preview)
+  Hidden Classes
+  ZGC and Shenandoah Improvements
 
 Java 16 (March 2021)
-Records (standard)
-
-Pattern Matching for instanceof (standard)
-
-Strong Encapsulation of JDK Internals
-
-Support for macOS/AArch64
+  Records (standard)
+  Pattern Matching for instanceof (standard)
+  Strong Encapsulation of JDK Internals
+  Support for macOS/AArch64
 
 Java 17 (September 2021) – LTS
-Sealed Classes (standard)
-
-Pattern Matching for switch (preview)
-
-Foreign Function & Memory API (incubator)
-
-Enhanced Pseudo-Random Number Generators
-
-New macOS Rendering Pipeline
+  Sealed Classes (standard)
+  Pattern Matching for switch (preview)
+  Foreign Function & Memory API (incubator)
+  Enhanced Pseudo-Random Number Generators
+  New macOS Rendering Pipeline
 
 Java 18 (March 2022)
-UTF-8 by Default
-
-Simple Web Server
-
-Code Snippets in Javadoc
-
-Vector API (3rd incubator)
+  UTF-8 by Default
+  Simple Web Server
+  Code Snippets in Javadoc
+  Vector API (3rd incubator)
 
 Java 19 (September 2022)
-Virtual Threads (preview)
-
-Structured Concurrency (incubator)
-
-Record Patterns (preview)
-
-Foreign Function & Memory API (preview)
+  Virtual Threads (preview)
+  Structured Concurrency (incubator)
+  Record Patterns (preview)
+  Foreign Function & Memory API (preview)
 
 Java 20 (March 2023)
-Continued previews:
-
-Virtual Threads
-
-Structured Concurrency
-
-Record Patterns
-
-Pattern Matching for switch
-
-Scoped Values (incubator)
+  Continued previews:
+  Virtual Threads
+  Structured Concurrency
+  Record Patterns
+  Pattern Matching for switch
+  Scoped Values (incubator)
 
 Java 21 (September 2023) – LTS
-Virtual Threads (standard)
-
-Record Patterns (standard)
-
-Pattern Matching for switch (standard)
-
-Sequenced Collections
-
-String Templates (preview)
-
-Unnamed Classes and Instance Main Methods (preview)
+  Virtual Threads (standard)
+  Record Patterns (standard)
+  Pattern Matching for switch (standard)
+  Sequenced Collections
+  String Templates (preview)
+  Unnamed Classes and Instance Main Methods (preview)
 
 Java 22 (March 2024)
-Statements Before super() (preview)
-
-Stream Gatherers
-
-Class-File API (preview)
-
-Implicitly Declared Classes and Main Methods (2nd preview)
+  Statements Before super() (preview)
+  Stream Gatherers
+  Class-File API (preview)
+  Implicitly Declared Classes and Main Methods (2nd preview)
 
 Java 23 (Expected September 2024)
-Final features to be confirmed upon release
-
-Likely enhancements to memory APIs, performance, and syntax refinements
+  Final features to be confirmed upon release
+  Likely enhancements to memory APIs, performance, and syntax refinements
