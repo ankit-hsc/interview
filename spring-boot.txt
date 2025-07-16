@@ -25,6 +25,7 @@ approach?
 23.spring validation
 24.How Would you make a REST API in spring boot to return text/XML instead of JSON.
 25. Spring AOP
+toggle a feature in spring boot (use conditional bean)
 
 
 
