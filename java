@@ -23,3 +23,4 @@ equal and hashcode method contract
 comparator and comparable
 cloning , deep clone , swallow clone
 Serialisation , why uuid required in serialisation
+try with resources, finally
