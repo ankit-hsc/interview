@@ -1,1 +1,5 @@
-1.Spring cloud config Server how it is used with MS to get config information
+Spring cloud config Server how it is used with MS to get config information
+design pattern (saga, event driven)
+API gateway, its use (spring api gateway , kong)
+syncronus , async communication between service
+
