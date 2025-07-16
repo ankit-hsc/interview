@@ -16,3 +16,7 @@ immutable class
 predicate, supplier, consumer,function, BiFunction
 functional interface
 Annotations
+equal and hashcode method contract
+comparator and comparable
+cloning , deep clone , swallow clone
+Serialisation , why uuid required in serialisation
