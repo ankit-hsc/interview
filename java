@@ -6,7 +6,10 @@ access modifier
 wrapper class 
 generics in java
 java reflections
-collections, internal working
+collections
+  internal working
+  fail fast, fail safe
+  thread safe collections
 String , String buffer, stringreader 
 memorymanagement, garbage collection
 exception handeling
