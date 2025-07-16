@@ -14,7 +14,7 @@ String , String buffer, stringreader
 memorymanagement, garbage collection
 exception handeling
 design patteren
-singleton how to handle clone and serializable
+singleton how to handle clone and serializable, reflection
 immutable class
 predicate, supplier, consumer,function, BiFunction
 functional interface
