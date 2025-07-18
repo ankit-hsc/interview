@@ -1,5 +1,7 @@
 Spring cloud config Server how it is used with MS to get config information
-design pattern (saga, event driven)
+design pattern (saga, event driven etc..)
 API gateway, its use (spring api gateway , kong)
 syncronus , async communication between service
+Prometheus, grafana
+ELK dashboard
 
