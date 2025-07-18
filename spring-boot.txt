@@ -20,14 +20,14 @@ approach?
 25. Spring AOP
 toggle a feature in spring boot (use conditional bean)
 REST -
-  type of hhtp code (1xx, 2xx , 3xx, 4xx, 5xx)
+  type of http code (1xx, 2xx , 3xx, 4xx, 5xx)
   idempotent,non-idempotent, safe http method call
   how to make post call idempotent
   openapi use
   api versioing
   path variable , request param , requestBody, responsebody
   how to return xml , text
-  How APIs are directed towards the controller.  write a pseudo code for end-to-end flow of a GET API call.
+  How APIs are directed towards the controller.  
   @Controller & @RestController
   What Happens If You Use @Controller on a Service Layer Class?
   why use ResponseEntity, controllerAdvice ?
