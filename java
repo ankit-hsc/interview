@@ -11,8 +11,9 @@ collections
   fail fast, fail safe
   thread safe collections
 String , String buffer, stringreader 
-memorymanagement, garbage collection
+memory-management, garbage collection
 exception handeling
+    common exception and their types (checked/unchecked) - ClassNotFoundException, NoClassDefFoundError,UnsupportedClassVersionError,ExceptionInInitializerError
 design patteren
 singleton how to handle clone and serializable, reflection
 immutable class
