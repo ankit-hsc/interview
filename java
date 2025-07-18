@@ -14,8 +14,10 @@ String , String buffer, stringreader
 memory-management, garbage collection
 exception handeling
     common exception and their types (checked/unchecked) - ClassNotFoundException, NoClassDefFoundError,UnsupportedClassVersionError,ExceptionInInitializerError
-design patteren
-singleton how to handle clone and serializable, reflection
+design pattern
+  singleton how to handle clone and serializable, reflection
+  what is double null check in Singleton design pattern
+  common pattern - factory , abstract factory , decorator , strategy , observer , builder, adapter
 immutable class
 predicate, supplier, consumer,function, BiFunction
 functional interface
