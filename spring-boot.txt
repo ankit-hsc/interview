@@ -17,15 +17,25 @@ approach?
 15.Explain Spring Security, @EnableWebSecurity
 16.What is oauth2 and where have you implemented it ?
 17.Spring filter , http interceptor?
-18.How APIs are directed towards the controller.  write a pseudo code for end-to-end flow of a GET API call.
-19. @Controller & @RestController
-20.What Happens If You Use @Controller on a Service Layer Class?
-21.why use ResponseEntity, controllerAdvice ?
-22.Resttemplate , webClient, How to use interceptors with RestTemplate?
-23.spring validation
-24.How Would you make a REST API in spring boot to return text/XML instead of JSON.
 25. Spring AOP
 toggle a feature in spring boot (use conditional bean)
+REST -
+type of hhtp code (1xx, 2xx , 3xx, 4xx, 5xx)
+  idempotent,non-idempotent, safe http method call
+  how to make post call idempotent
+  openapi use
+  api versioing
+  path variable , request param , requestBody, responsebody
+  how to return xml , text
+  How APIs are directed towards the controller.  write a pseudo code for end-to-end flow of a GET API call.
+  @Controller & @RestController
+  What Happens If You Use @Controller on a Service Layer Class?
+  why use ResponseEntity, controllerAdvice ?
+  Resttemplate , webClient, How to use interceptors with RestTemplate?
+  spring validation
+
+
+
 
 
 
