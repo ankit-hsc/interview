@@ -20,7 +20,7 @@ approach?
 25. Spring AOP
 toggle a feature in spring boot (use conditional bean)
 REST -
-type of hhtp code (1xx, 2xx , 3xx, 4xx, 5xx)
+  type of hhtp code (1xx, 2xx , 3xx, 4xx, 5xx)
   idempotent,non-idempotent, safe http method call
   how to make post call idempotent
   openapi use
