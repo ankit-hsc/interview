@@ -18,5 +18,7 @@
 
 
 3.JDBC -
-
+  statement , preparedstatement
+  execute, executeUpdate, executeQuery
+  Drivermanager, connection
   
