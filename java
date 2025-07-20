@@ -31,3 +31,5 @@ transient, transient on static fields
 try with resources, finally
 java flight recorder(jfr)
 jvm inlining
+@jsontest, json assert
+                     
