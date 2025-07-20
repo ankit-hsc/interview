@@ -17,7 +17,8 @@ exception handeling
 design pattern
   singleton how to handle clone and serializable, reflection
   what is double null check in Singleton design pattern
-  common pattern - factory , abstract factory , decorator , strategy , observer , builder, adapter
+  common pattern - factory , abstract factory , decorator , strategy , observer , builder, adapter, prtotype, command, 
+                   flyweight, chain of responsibility ,facade, proxy
 immutable class
 predicate, supplier, consumer,function, BiFunction
 functional interface
@@ -26,4 +27,7 @@ equal and hashcode method contract
 comparator and comparable
 cloning , deep clone , swallow clone
 Serialisation , why uuid required in serialisation
+transient, transient on static fields
 try with resources, finally
+java flight recorder(jfr)
+jvm inlining
