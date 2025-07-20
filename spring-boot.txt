@@ -34,6 +34,12 @@ REST -
   Resttemplate , webClient, How to use interceptors with RestTemplate?
   spring validation
 
+communicate between microservice accross multiple clouds
+backward compatibility in spring boot upgrades
+register a custom user service for spring security
+websecurityconfigureadapter , SecurityFilterchain, @enablewebsecurity
+custom applicationRunner, commandlinerunner
+@configurationProperties, @constructorbinding
 
 
 
