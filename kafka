@@ -13,4 +13,5 @@ consequence of kafka log compaction
 unexpected cause of failure in replicating msgs between kafka cluster
 kafka rebalance consumer groups
 kafka component responsible for load balancing in partitions
+kafka back pressure
 
