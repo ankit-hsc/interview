@@ -27,7 +27,7 @@ equal and hashcode method contract
 comparator and comparable
 cloning , deep clone , swallow clone
 Serialisation , why uuid required in serialisation
-transient, transient on static fields
+transient, transient on static fields, transient on serialization 
 try with resources, finally
 java flight recorder(jfr)
 jvm inlining
