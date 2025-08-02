@@ -1,7 +1,7 @@
 1. thread create ,start/run,  join , sleep , priority , yield , thread life cycle
 2. Deadlock, Livelock, Starvation
 3. daemon thread
-4. oblect/class synchronisation
+4. object/class synchronisation
 5. inter thread communication- wait , notify ,notifyall, spurious wakeups
 6. executor, executor service , execute/submit , threadpool, @async 
 7. Thread-Safe Collections- ConcurrentHashMap,synchronizedMap, CopyOnWriteArrayList, BlockingQueue
