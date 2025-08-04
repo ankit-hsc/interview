@@ -8,14 +8,18 @@ generics in java
 java reflections
   
 collections-
-  internal working
-  fail fast, fail safe
+  internal working of hashmap,hashset, linkedhashmap,treemap
+  fail fast, fail safe in collections
   thread safe collections
   
 String , String buffer, stringreader 
-memory-management, garbage collection
+  why string is immutable
+  string constant pool
   
-exception handeling
+memory-management in java 
+garbage collection in java
+  
+exception handeling -
     exception handling rules in methos overriding
     common exception and their types (checked/unchecked) - ClassNotFoundException, NoClassDefFoundError,UnsupportedClassVersionError,ExceptionInInitializerError
 
