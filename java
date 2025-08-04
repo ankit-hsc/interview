@@ -1,26 +1,32 @@
 OOPs 
 when to use abstract and interface (diamond problem in interface)
-static member , field, class
+static (member , field, class)
 inner class in java
 access modifier
 wrapper class 
 generics in java
 java reflections
-collections
+  
+collections-
   internal working
   fail fast, fail safe
   thread safe collections
+  
 String , String buffer, stringreader 
 memory-management, garbage collection
+  
 exception handeling
+    exception handling rules in methos overriding
     common exception and their types (checked/unchecked) - ClassNotFoundException, NoClassDefFoundError,UnsupportedClassVersionError,ExceptionInInitializerError
+
 design pattern
   singleton how to handle clone and serializable, reflection
   what is double null check in Singleton design pattern
   common pattern - factory , abstract factory , decorator , strategy , observer , builder, adapter, prtotype, command, 
                    flyweight, chain of responsibility ,facade, proxy
+  
 immutable class
-predicate, supplier, consumer,function, BiFunction
+predicate, supplier, consumer,function, BiFunction in stream
 functional interface
 Annotations
 equal and hashcode method contract
@@ -32,4 +38,5 @@ try with resources, finally
 java flight recorder(jfr)
 jvm inlining
 @jsontest, json assert
+how to test exception blocks in junit
                      
