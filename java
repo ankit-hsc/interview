@@ -20,7 +20,8 @@ memory-management in java
 garbage collection in java
   
 exception handeling -
-    exception handling rules in methos overriding
+    exception propagation , throw , throws , finally
+    exception handling rules in method overriding
     common exception and their types (checked/unchecked) - ClassNotFoundException, NoClassDefFoundError,UnsupportedClassVersionError,ExceptionInInitializerError
 
 design pattern
