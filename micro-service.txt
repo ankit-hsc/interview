@@ -1,7 +1,15 @@
 Spring cloud config Server how it is used with MS to get config information
 design pattern (saga, cqrs event driven etc..)
+desin patteren- orchestration vs choreography
 API gateway, its use (spring api gateway , kong)
 syncronus , async communication between service
 Prometheus, grafana
 ELK dashboard
+canary , blue-green deployment
+circuit breaker ,  retry patteren in microservice
+api tracing across multiple microservice
+what is actuators
+service discovery , load balancing
+how to use Spring Sleuth + Zipkin ?
+
 
