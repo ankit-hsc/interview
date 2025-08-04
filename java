@@ -1,4 +1,4 @@
-OOPs 
+revise all OOPs concepts
 when to use abstract and interface (diamond problem in interface)
 static (member , field, class)
 inner class in java
