@@ -16,8 +16,9 @@ String , String buffer, stringreader
   why string is immutable
   string constant pool
   
-memory-management in java 
-garbage collection in java
+how memory-management works in java 
+how garbage collection works in java
+how class loading works in java
   
 exception handeling -
     exception propagation , throw , throws , finally
