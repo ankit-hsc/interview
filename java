@@ -12,7 +12,7 @@ collections-
   fail fast, fail safe in collections
   thread safe collections
   
-String , String buffer, stringreader 
+String , String buffer, string builder , stringreader 
   why string is immutable
   string constant pool
   
