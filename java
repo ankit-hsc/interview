@@ -45,4 +45,5 @@ java flight recorder(jfr)
 jvm inlining
 @jsontest, json assert
 how to test exception blocks in junit
+Thread and heap dump analysis
                      
