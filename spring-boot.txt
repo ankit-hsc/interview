@@ -12,7 +12,6 @@ approach?
 10. @qualifire vs @autowire
 11. Explain IOC container. 
 12.When we choose Spring over Spring Boot
-13.Do you know some Microservice Design patterns.
 14.authentication vs authorization
 15.Explain Spring Security, @EnableWebSecurity
 16.What is oauth2 and where have you implemented it ?
