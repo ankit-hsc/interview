@@ -1,5 +1,6 @@
 1. spring jpa -
   JPA Entity Lifecycle States
+  @Id - All generatiom strategy
   composite key , sort, pagination
   entity relationship (onetoone ,manytoone , manytomany)
   cascade type
