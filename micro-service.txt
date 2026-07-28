@@ -1,6 +1,7 @@
 13.Do you know some Microservice Design patterns?
 design pattern (saga, cqrs event driven etc..)
 desin patteren- orchestration vs choreography
+
 Spring cloud config Server how it is used with MS to get config information
 API gateway, its use (spring api gateway , kong)
 syncronus , async communication between service
@@ -12,6 +13,7 @@ api tracing across multiple microservice
 what is actuators
 service discovery , load balancing
 how to use Spring Sleuth + Zipkin ?
+communicate between microservice accross multiple clouds
 Disadvantages of microservice
 
 
