@@ -4,7 +4,7 @@
   composite key , sort, pagination
   entity relationship (onetoone ,manytoone , manytomany)
   cascade type
-  transactional , rollback rules, propagation options
+  transactional , rollback rules, propagation ,isolation options
   fetch type - eager , lazy
   N+1 query problem
 
