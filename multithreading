@@ -7,7 +7,7 @@
 7. Thread-Safe Collections- ConcurrentHashMap,synchronizedMap, CopyOnWriteArrayList, BlockingQueue
 8. Locks and Synchronizers- Lock , ReentrantLock, ReadWriteLock, StampedLock, ReentrantReadWriteLock
 9. virtual thread
-10. Concurrency Utilities( semaphore , countdownlatch , cyclic barier , Exchanger , phaser )
+10. Concurrency Utilities Synchronizers( semaphore , countdownlatch , cyclic barier , Exchanger , phaser )
 11. Atomic Operations- AtomicInteger, AtomicBoolean, AtomicReference
 12. Futures and Callables- runnable , callable ,Future ,completableFuture
 13. Fork/Join Framework- ForkJoinPool, RecursiveTask, RecursiveAction
