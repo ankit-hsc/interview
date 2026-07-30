@@ -12,3 +12,4 @@
 12. Futures and Callables- runnable , callable ,Future ,completableFuture
 13. Fork/Join Framework- ForkJoinPool, RecursiveTask, RecursiveAction
 14. Volatile Keyword
+15.ThreadLocal class 
