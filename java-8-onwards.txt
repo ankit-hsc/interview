@@ -103,6 +103,33 @@ Java 22 (March 2024)
   Class-File API (preview)
   Implicitly Declared Classes and Main Methods (2nd preview)
 
-Java 23 (Expected September 2024)
-  Final features to be confirmed upon release
-  Likely enhancements to memory APIs, performance, and syntax refinements
+Java 23 
+  Module Import Declarations (Preview), 
+  Primitive Types in Patterns/instanceof/switch (Preview), 
+  Stream Gatherers (2nd Preview), Class-File API (Preview), 
+  Structured Concurrency (3rd Preview), 
+  Scoped Values (3rd Preview),
+  Markdown Documentation Comments (Preview), 
+  Vector API (8th Incubator)
+
+Java 24
+  Class-File API (Final), 
+  Stream Gatherers (Final), 
+  Flexible Constructor Bodies (Preview), 
+  Primitive Types in Patterns (2nd Preview), 
+  Module Import Declarations (2nd Preview), 
+  Simple Source Files & Instance Main Methods (3rd Preview), 
+  Scoped Values (4th Preview), 
+  Structured Concurrency (4th Preview),
+  Key Derivation Function (Preview), 
+  Security Manager permanently disabled
+
+Java 25
+  coped Values (Final), 
+  Structured Concurrency (Final), 
+  Flexible Constructor Bodies (Final),
+  Module Import Declarations (Final), 
+  Simple Source Files & Instance Main Methods (Final), 
+  Primitive Types in Patterns (Preview continuation), 
+  Stable LTS release with JVM, GC,
+  and performance improvements.
