@@ -1,6 +1,5 @@
-13.Do you know some Microservice Design patterns?
-design pattern (saga, cqrs event driven etc..)
-desin patteren- orchestration vs choreography
+Do you know some Microservice Design patterns?
+API Gateway, Service Discovery, Database per Service, Saga, Circuit Breaker, Retry, Timeout, Bulkhead, CQRS (Command Query Responsibility Segregation), Event Sourcing, Strangler Fig, Sidecar, Ambassador, Adapter, Aggregator, Backend for Frontend (BFF), Event-Driven Architecture, Publish-Subscribe (Pub/Sub), Asynchronous Messaging, Request-Reply, Competing Consumers, API Composition, Command Pattern, Transactional Outbox, Inbox Pattern, Idempotency, Dead Letter Queue (DLQ), Cache-Aside, Distributed Cache, Leader Election, Service Registry, Health Check, Externalized Configuration, Centralized Logging, Distributed Tracing, Service Mesh, Rate Limiting, Load Balancing, Blue-Green Deployment, Canary Deployment, Feature Toggle (Feature Flags), Anti-Corruption Layer (ACL), Database Sharding, Shared Nothing Architecture, Backend Aggregation, Choreography, Orchestration, Consumer-Driven Contracts (CDC), Fail Fast, Fallback, Compensating Transaction, Hexagonal Architecture (Ports and Adapters).
 
 Spring cloud config Server how it is used with MS to get config information
 API gateway, its use (spring api gateway , kong)
