@@ -1,13 +1,15 @@
+main features of Kafka
 zookeeper in Kafka
 kafka vs rabitMQ
 kafka cluster,broker
 topic,group, partition and offset
 replicas, replication factor, ISR
-Kafka Streaming flow
-Main features of Kafka
+kafka Streaming flow
+kafka connector(source/sink)
 failure point and error handling
 offset commit strategies (auto-commit vs manual ack)
 kafka in cluster mode , rebalance , high availability , fault tolerance
+
 
 ===
 how kafka metrics can be integrated with enterprise monitoring
