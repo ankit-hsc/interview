@@ -1,10 +1,12 @@
 zookeeper in Kafka
 kafka vs rabitMQ
-group, partition and offset
+kafka cluster,broker
+topic,group, partition and offset
+replicas, replication factor, ISR
 Kafka Streaming flow
 Main features of Kafka
 failure point and error handling
-manual offset management
+offset commit strategies (auto-commit vs manual ack)
 kafka in cluster mode , rebalance , high availability , fault tolerance
 
 ===
