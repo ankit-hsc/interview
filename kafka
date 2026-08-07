@@ -7,7 +7,7 @@ replicas, replication factor, ISR
 kafka Streaming flow
 kafka connector(source/sink)
 failure point and error handling
-  - Producer-side failures ( Handling failures asynchronously/synchronously, Retry + Dead Letter Topic (DLT) for processing failures , Broker unavailable , serialization error)
+  - Producer-side failures ( Handling failures asynchronously/synchronously, Retry + Dead Letter Topic (DLT) for processing failures , Broker unavailable , serialization error, Idempotent processing (handling duplicate delivery))
   - Consumer-side failures ( deserialization (poison pill), Retry + Dead Letter Topic (DLT) for processing failures, Consumer crashes mid-processing (rebalance handling) , Idempotent processing (handling duplicate delivery) )
 offset commit strategies (auto-commit vs manual ack)
 kafka in cluster mode , rebalance , high availability , fault tolerance
