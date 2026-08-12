@@ -39,6 +39,14 @@ register a custom user service for spring security
 websecurityconfigureadapter , SecurityFilterchain, @enablewebsecurity
 custom applicationRunner, commandlinerunner
 @configurationProperties, @constructorbinding
+What is a bean factory and how does it differ from an application context?
+How can you define custom scope in Spring?
+What is the difference between @Autowired and @Resource annotations in Spring?
+How can you create an instance of a bean programatically in Spring?
+How does Spring handle circular dependencies?
+How can you define lazy initialization for a bean in Spring?
+How does Spring support transaction management?
+How does Spring support internationalization?
 
 
 
